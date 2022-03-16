@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @message-from-hell
 - 👀 I’m interested in web-developing
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on don't care where
+- 💞️ I’m looking to collaborate on anybody(for now)
 - 📫 How to reach me at this point you should know that I'm just starting to learn js, 
 - I mean if you're a masochist then please text to email message.from.hell139@gmail.com 
 
